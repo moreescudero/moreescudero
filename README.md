@@ -1,6 +1,5 @@
-## Holaa
+<img src="https://media.tenor.com/IR-B2_ZcBDUAAAAj/bits-8bits.gif" style="margin-left: 0px" height="190">
 
-![Descripción del gif](https://media.tenor.com/IR-B2_ZcBDUAAAAi/bits-8bits.gif)
 <!--
 **moreescudero/moreescudero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
